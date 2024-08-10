@@ -1,0 +1,11 @@
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\NUnit3.TestAdapter.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\NUnit3.TestAdapter.pdb
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\nunit.engine.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\nunit.engine.api.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\nunit.engine.core.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\testcentric.engine.metadata.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\BankSoftware.dll.config
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftware\bin\BankSoftware.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftware\Debug\BankSoftware.csproj.CoreCompileInputs.cache
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftware\Debug\BankSoftware.csproj.CopyComplete
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftware\Debug\BankSoftware.dll

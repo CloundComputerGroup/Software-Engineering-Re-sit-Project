@@ -1,0 +1,5 @@
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftwareModels\bin\Debug\BankSoftwareModels.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareModels\Debug\BankSoftwareModels.csprojAssemblyReference.cache
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareModels\Debug\BankSoftwareModels.csproj.CoreCompileInputs.cache
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareModels\Debug\BankSoftwareModels.csproj.CopyComplete
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareModels\Debug\BankSoftwareModels.dll

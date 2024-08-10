@@ -1,0 +1,6 @@
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftwareDataAccess\bin\Debug\BankSoftwareDataAccess.dll.config
+D:\BankSoftware\.vs\BankSoftware\lut\0\b\BankSoftwareDataAccess\bin\Debug\BankSoftwareDataAccess.dll
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareDataAccess\Debug\BankSoftwareDataAccess.csprojAssemblyReference.cache
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareDataAccess\Debug\BankSoftwareDataAccess.csproj.CoreCompileInputs.cache
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareDataAccess\Debug\BankSoftwareDataAccess.csproj.CopyComplete
+D:\BankSoftware\.vs\BankSoftware\lut\0\i\BankSoftwareDataAccess\Debug\BankSoftwareDataAccess.dll
